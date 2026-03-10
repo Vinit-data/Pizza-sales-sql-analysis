@@ -224,9 +224,8 @@ Popular pizzas like *The Classic Deluxe Pizza* and *The Barbecue Chicken Pizza* 
 
 ### Monitor Revenue Growth Patterns
 The steady growth in cumulative revenue suggests stable business performance. Continuous monitoring of sales trends can help detect seasonal demand shifts and guide future promotional strategies.
+---
 
 ## Acknowledgment
 
 This project is inspired by a guided SQL project available on YouTube uploaded by WScube Teach. The analysis and SQL implementation were completed independently for learning and portfolio purposes.
-
----
