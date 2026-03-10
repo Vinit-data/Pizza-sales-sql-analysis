@@ -204,7 +204,9 @@ Large sized pizzas appear to be ordered more frequently, which may indicate grou
 High-volume favorites like The Classic Deluxe Pizza (2,453 orders; with $38,180.50 revenue) and The Barbecue Chicken Pizza (2,432 orders; with  $42,768 revenue) lead in total units sold, while The Thai Chicken Pizza acts as a premium driver—generating the highest total revenue ($43,434.25) despite a lower order frequency (2,371 orders).
 
 ### Sales Trends
+
 The cumulative revenue analysis shows a steady upward trend, reaching $425,553.25 by July 4th. This indicates consistent daily sales performance throughout the analyzed period.
+
 ---
 
 ## Business Recommendations
