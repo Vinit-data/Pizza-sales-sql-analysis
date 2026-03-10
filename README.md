@@ -113,3 +113,27 @@ pizza-sales-sql-analysis
 ## Acknowledgment
 
 This project is inspired by a guided SQL project available on YouTube uploaded by WScube Teach. The analysis and SQL implementation were completed independently for learning and portfolio purposes.
+
+## Sample Query Results
+
+### Total Orders Placed
+
+![Total Orders](images/1. Basic_Analysis_results/1.png.png)
+
+---
+
+### Total Revenue Generated
+
+![Total Revenue](images/1. Basic_Analysis_results/2.png)
+
+---
+
+### Top 5 Most Ordered Pizzas
+
+![Top Pizzas](images/1. Basic_Analysis_results/5.png)
+
+---
+
+### Orders Distribution by Hour
+
+![Orders by Hour](images/2. Intermediate_Analysis_results/2.png)
