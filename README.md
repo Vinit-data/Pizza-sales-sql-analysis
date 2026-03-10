@@ -118,22 +118,22 @@ This project is inspired by a guided SQL project available on YouTube uploaded b
 
 ### Total Orders Placed
 
-images/1. Basic_Analysis_results/1.png
+images/1.%20Basic_Analysis_results/1.png
 
 ---
 
 ### Total Revenue Generated
 
-![Total Revenue](images/1. Basic_Analysis_results/2.png)
+![Total Revenue](images/1.%20Basic_Analysis_results/2.png)
 
 ---
 
 ### Top 5 Most Ordered Pizzas
 
-![Top Pizzas](images/1. Basic_Analysis_results/5.png)
+![Top Pizzas](images/1.%20Basic_Analysis_results/5.png)
 
 ---
 
 ### Orders Distribution by Hour
 
-![Orders by Hour](images/2. Intermediate_Analysis_results/2.png)
+![Orders by Hour](images/2.%20Intermediate_Analysis_results/2.png)
