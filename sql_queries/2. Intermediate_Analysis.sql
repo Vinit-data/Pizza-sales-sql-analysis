@@ -25,7 +25,7 @@ group by cc
 
 -- Group the orders by date and calculate the average number of pizzas ordered per day
 
-select round(avg(oq),0) from
+select round(avg(oq),0) as Avg_daily_Pizzas from
 (select	orders.order_date as od, sum(order_details.quantity) as oq
 from orders join order_details
 on orders.order_id=order_details.order_id
