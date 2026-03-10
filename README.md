@@ -1,6 +1,6 @@
 # Pizza Sales Analysis using SQL
 
-![Project Banner](images/Banner1.jpeg)
+![Project Banner](images/%20Banner1.jpeg)
 
 ## Project Overview
 
