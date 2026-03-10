@@ -118,7 +118,7 @@ This project is inspired by a guided SQL project available on YouTube uploaded b
 
 ### Total Orders Placed
 
-![Total Orders](images/1. Basic_Analysis_results/1.png)
+images/1. Basic_Analysis_results/1.png
 
 ---
 
