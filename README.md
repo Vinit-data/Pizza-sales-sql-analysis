@@ -185,7 +185,6 @@ images/1.%20Basic_Analysis_results/1.png
 
 ![Orders by Hour](images/2.%20Intermediate_Analysis_results/2.png)
 ```
-
 ---
 ## Key Business Insights
 
