@@ -9,6 +9,11 @@ This project analyzes pizza sales data using SQL to extract meaningful business 
 The goal of this project is to demonstrate practical SQL skills used in data analysis including joins, aggregations, grouping, and window functions.
 
 ---
+## Project Objective
+
+The objective of this project is to analyze transactional pizza sales data using SQL to uncover key business insights such as revenue drivers, customer ordering patterns, and product performance. The analysis aims to help identify opportunities to improve sales strategies and operational efficiency.
+
+---
 
 ## Dataset
 
@@ -20,6 +25,13 @@ Tables included:
 - **order_details** – Contains quantity and pizza IDs associated with each order.
 - **pizzas** – Contains pizza size and price information.
 - **pizza_types** – Contains pizza names, categories, and ingredients.
+
+### Dataset Size
+
+- Total Orders: **21,350**
+- Total Order Details: **48,620**
+- Pizza Types: **32**
+- Pizza Variants (size variations): **96**
 
 ---
 
@@ -110,6 +122,20 @@ pizza-sales-sql-analysis
 └── README.md
 ```
 
+---
+
+## How to Run the SQL Queries
+
+1. Import the CSV dataset files into your SQL environment (e.g., MySQL Workbench).
+2. Create the required tables using the dataset schema.
+3. Load the CSV files into the respective tables:
+   - orders
+   - order_details
+   - pizzas
+   - pizza_types
+4. Open the SQL files inside the **sql_queries** folder.
+5. Execute the queries to reproduce the analysis and results.
+   
 ---
 ## Example SQL Queries
 
