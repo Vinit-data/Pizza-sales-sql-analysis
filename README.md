@@ -109,39 +109,6 @@ pizza-sales-sql-analysis
 ```
 
 ---
-
-## Acknowledgment
-
-This project is inspired by a guided SQL project available on YouTube uploaded by WScube Teach. The analysis and SQL implementation were completed independently for learning and portfolio purposes.
-
----
-
-## Sample Query Results
-
-### Total Orders Placed
-
-images/1.%20Basic_Analysis_results/1.png
-
----
-
-### Total Revenue Generated
-
-![Total Revenue](images/1.%20Basic_Analysis_results/2.png)
-
----
-
-### Top 5 Most Ordered Pizzas
-
-![Top Pizzas](images/1.%20Basic_Analysis_results/5.png)
-
----
-
-### Orders Distribution by Hour
-
-![Orders by Hour](images/2.%20Intermediate_Analysis_results/2.png)
-```
-
----
 ## Example SQL Queries
 
 ### Total Revenue Generated
@@ -193,6 +160,33 @@ LIMIT 3
 ```
 
 ---
+
+## Sample Query Results
+
+### Total Orders Placed
+
+images/1.%20Basic_Analysis_results/1.png
+
+---
+
+### Total Revenue Generated
+
+![Total Revenue](images/1.%20Basic_Analysis_results/2.png)
+
+---
+
+### Top 5 Most Ordered Pizzas
+
+![Top Pizzas](images/1.%20Basic_Analysis_results/5.png)
+
+---
+
+### Orders Distribution by Hour
+
+![Orders by Hour](images/2.%20Intermediate_Analysis_results/2.png)
+```
+
+---
 ## Key Business Insights
 
 Based on the SQL analysis performed on the pizza sales dataset, several useful business insights can be observed:
@@ -207,7 +201,34 @@ Top-performing items like The Thai Chicken Pizza ($43,434.25), The Barbecue Chic
 Large sized pizzas appear to be ordered more frequently, which may indicate group orders or shared meals.
 
 ### Product Performance
-High-volume favorites like The Classic Deluxe Pizza ($2,453$ orders; $38,180.50) and The Barbecue Chicken Pizza ($2,432$ orders; $42,768) lead in total units sold, while The Thai Chicken Pizza acts as a premium driver—generating the highest total revenue ($43,434.25) despite a lower order frequency ($2,371$ orders).
+High-volume favorites like The Classic Deluxe Pizza (2,453 orders; with $38,180.50 revenue) and The Barbecue Chicken Pizza (2,432 orders; with  $42,768 revenue) lead in total units sold, while The Thai Chicken Pizza acts as a premium driver—generating the highest total revenue ($43,434.25) despite a lower order frequency (2,371 orders).
 
 ### Sales Trends
-The business shows a consistent and linear growth in cumulative revenue, reaching a milestone of $425,553.25 by July 4th, which reflects a stable daily sales performance with no significant periods of stagnation or decline.
+The cumulative revenue analysis shows a steady upward trend, reaching $425,553.25 by July 4th. This indicates consistent daily sales performance throughout the analyzed period.
+---
+
+## Business Recommendations
+
+Based on the insights derived from the SQL analysis, the following recommendations could help improve business performance:
+
+### Promote High-Revenue Pizza Types
+Top-performing pizzas such as *The Thai Chicken Pizza*, *The Barbecue Chicken Pizza*, and *The California Chicken Pizza* generate the highest revenue. Featuring these items in promotions, combo deals, or highlighted menu placements could further increase sales.
+
+### Optimize Operations During Peak Hours
+Order distribution analysis shows that customer demand peaks during afternoon hours, particularly around lunch time. Restaurants can optimize staffing, ingredient preparation, and service efficiency during these peak periods to improve customer experience.
+
+### Target Group Orders with Large Pizzas
+Since large-sized pizzas are ordered most frequently, offering group meal bundles or family-sized deals could encourage higher order values and increase overall revenue.
+
+### Focus Marketing on High-Volume Favorites
+Popular pizzas like *The Classic Deluxe Pizza* and *The Barbecue Chicken Pizza* show consistently high order quantities. These items could be emphasized in marketing campaigns and loyalty programs to maintain steady demand.
+
+### Monitor Revenue Growth Patterns
+The steady growth in cumulative revenue suggests stable business performance. Continuous monitoring of sales trends can help detect seasonal demand shifts and guide future promotional strategies.
+---
+
+## Acknowledgment
+
+This project is inspired by a guided SQL project available on YouTube uploaded by WScube Teach. The analysis and SQL implementation were completed independently for learning and portfolio purposes.
+
+---
