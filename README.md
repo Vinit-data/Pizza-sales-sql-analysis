@@ -191,3 +191,23 @@ GROUP BY nam
 ORDER BY revenue DESC
 LIMIT 3
 ```
+
+---
+## Key Business Insights
+
+Based on the SQL analysis performed on the pizza sales dataset, several useful business insights can be observed:
+
+### Customer Ordering Patterns
+Most orders occur during peak meal hours, particularly in the afternoon, indicating higher demand during lunch time.
+
+### Revenue Drivers
+Top-performing items like The Thai Chicken Pizza ($43,434.25), The Barbecue Chicken Pizza ($42,768), and The California Chicken Pizza ($41,409.50) contribute significantly more to total revenue, suggesting strong customer preference for these specific menu items.
+
+### Popular Pizza Sizes
+Large sized pizzas appear to be ordered more frequently, which may indicate group orders or shared meals.
+
+### Product Performance
+High-volume favorites like The Classic Deluxe Pizza ($2,453$ orders; $38,180.50) and The Barbecue Chicken Pizza ($2,432$ orders; $42,768) lead in total units sold, while The Thai Chicken Pizza acts as a premium driver—generating the highest total revenue ($43,434.25) despite a lower order frequency ($2,371$ orders).
+
+### Sales Trends
+The business shows a consistent and linear growth in cumulative revenue, reaching a milestone of $425,553.25 by July 4th, which reflects a stable daily sales performance with no significant periods of stagnation or decline.
