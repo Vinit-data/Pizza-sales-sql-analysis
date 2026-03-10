@@ -186,46 +186,6 @@ images/1.%20Basic_Analysis_results/1.png
 ![Orders by Hour](images/2.%20Intermediate_Analysis_results/2.png)
 ```
 ---
-## Key Business Insights
-
-Based on the SQL analysis performed on the pizza sales dataset, several useful business insights can be observed:
-
-### Customer Ordering Patterns
-Most orders occur during peak meal hours, particularly in the afternoon, indicating higher demand during lunch time.
-
-### Revenue Drivers
-Top-performing items like The Thai Chicken Pizza ($43,434.25), The Barbecue Chicken Pizza ($42,768), and The California Chicken Pizza ($41,409.50) contribute significantly more to total revenue, suggesting strong customer preference for these specific menu items.
-
-### Popular Pizza Sizes
-Large sized pizzas appear to be ordered more frequently, which may indicate group orders or shared meals.
-
-### Product Performance
-High-volume favorites like The Classic Deluxe Pizza (2,453 orders; with $38,180.50 revenue) and The Barbecue Chicken Pizza (2,432 orders; with  $42,768 revenue) lead in total units sold, while The Thai Chicken Pizza acts as a premium driver—generating the highest total revenue ($43,434.25) despite a lower order frequency (2,371 orders).
-
-### Sales Trends
-The cumulative revenue analysis shows a steady upward trend, reaching $425,553.25 by July 4th. This indicates consistent daily sales performance throughout the analyzed period.
----
-
-## Business Recommendations
-
-Based on the insights derived from the SQL analysis, the following recommendations could help improve business performance:
-
-### Promote High-Revenue Pizza Types
-Top-performing pizzas such as *The Thai Chicken Pizza*, *The Barbecue Chicken Pizza*, and *The California Chicken Pizza* generate the highest revenue. Featuring these items in promotions, combo deals, or highlighted menu placements could further increase sales.
-
-### Optimize Operations During Peak Hours
-Order distribution analysis shows that customer demand peaks during afternoon hours, particularly around lunch time. Restaurants can optimize staffing, ingredient preparation, and service efficiency during these peak periods to improve customer experience.
-
-### Target Group Orders with Large Pizzas
-Since large-sized pizzas are ordered most frequently, offering group meal bundles or family-sized deals could encourage higher order values and increase overall revenue.
-
-### Focus Marketing on High-Volume Favorites
-Popular pizzas like *The Classic Deluxe Pizza* and *The Barbecue Chicken Pizza* show consistently high order quantities. These items could be emphasized in marketing campaigns and loyalty programs to maintain steady demand.
-
-### Monitor Revenue Growth Patterns
-The steady growth in cumulative revenue suggests stable business performance. Continuous monitoring of sales trends can help detect seasonal demand shifts and guide future promotional strategies.
----
-
 ## Acknowledgment
 
 This project is inspired by a guided SQL project available on YouTube uploaded by WScube Teach. The analysis and SQL implementation were completed independently for learning and portfolio purposes.
