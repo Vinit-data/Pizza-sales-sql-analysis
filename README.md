@@ -224,10 +224,13 @@ Since large-sized pizzas are ordered most frequently, offering group meal bundle
 Popular pizzas like *The Classic Deluxe Pizza* and *The Barbecue Chicken Pizza* show consistently high order quantities. These items could be emphasized in marketing campaigns and loyalty programs to maintain steady demand.
 
 ### Monitor Revenue Growth Patterns
+
 The steady growth in cumulative revenue suggests stable business performance. Continuous monitoring of sales trends can help detect seasonal demand shifts and guide future promotional strategies.
+
 ---
 
 ## Acknowledgment
 
 This project is inspired by a guided SQL project available on YouTube uploaded by WScube Teach. The analysis and SQL implementation were completed independently for learning and portfolio purposes.
+
 ---
