@@ -1,6 +1,6 @@
 # Pizza Sales Analysis using SQL
 
-![Project Banner](images/%20ChatGPT 2.png)
+![Project Banner](images/221.jpeg)
 
 ## Project Overview
 
