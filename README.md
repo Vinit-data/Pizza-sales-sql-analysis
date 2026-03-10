@@ -229,3 +229,4 @@ The steady growth in cumulative revenue suggests stable business performance. Co
 ## Acknowledgment
 
 This project is inspired by a guided SQL project available on YouTube uploaded by WScube Teach. The analysis and SQL implementation were completed independently for learning and portfolio purposes.
+---
