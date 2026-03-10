@@ -186,6 +186,7 @@ images/1.%20Basic_Analysis_results/1.png
 ![Orders by Hour](images/2.%20Intermediate_Analysis_results/2.png)
 ```
 ---
+---
 ## Acknowledgment
 
 This project is inspired by a guided SQL project available on YouTube uploaded by WScube Teach. The analysis and SQL implementation were completed independently for learning and portfolio purposes.
